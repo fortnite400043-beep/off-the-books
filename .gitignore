@@ -1,0 +1,24 @@
+# Roblox / Rojo
+*.rbxl
+*.rbxlx
+*.rbxm
+*.rbxmx
+!assets/**/*.rbxm
+!assets/**/*.rbxmx
+sourcemap.json
+
+# Wally packages (installed, not committed)
+Packages/
+ServerPackages/
+DevPackages/
+
+# Blender
+*.blend1
+*.blend2
+
+# OS / editors
+.DS_Store
+Thumbs.db
+desktop.ini
+.vscode/
+*.log
